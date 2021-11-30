@@ -1,6 +1,7 @@
 body {background-color:#e7ae63;}
-body div.margem2 {
-    background: rgb(0, 0, 0);
-    color: rgb(211, 0, 0);
-    padding: 100px;
-}
+
+body {
+    background-color: #643effde;
+    color: white;
+} 
+  
